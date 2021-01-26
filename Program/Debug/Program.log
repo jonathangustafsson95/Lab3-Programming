@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\joel\source\repos\laboration3\program\main.c(11): warning C4013: 'printIntroMessage' undefined; assuming extern returning int
+Bibliotek.lib(strlib.obj) : warning LNK4099: PDB 'PCLibs2015.pdb' was not found with 'Bibliotek.lib(strlib.obj)' or at 'C:\Users\Joel\source\repos\Laboration3\Debug\PCLibs2015.pdb'; linking object as if no debug info
+Bibliotek.lib(simpio.obj) : warning LNK4099: PDB 'PCLibs2015.pdb' was not found with 'Bibliotek.lib(simpio.obj)' or at 'C:\Users\Joel\source\repos\Laboration3\Debug\PCLibs2015.pdb'; linking object as if no debug info
+Bibliotek.lib(genlib.obj) : warning LNK4099: PDB 'PCLibs2015.pdb' was not found with 'Bibliotek.lib(genlib.obj)' or at 'C:\Users\Joel\source\repos\Laboration3\Debug\PCLibs2015.pdb'; linking object as if no debug info
+  Program.vcxproj -> C:\Users\Joel\source\repos\Laboration3\Debug\Program.exe

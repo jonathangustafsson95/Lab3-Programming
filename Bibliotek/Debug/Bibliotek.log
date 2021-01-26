@@ -1,0 +1,9 @@
+﻿  sourcecode.c
+c:\users\joel\source\repos\laboration3\bibliotek\sourcecode.c(325): warning C4101: 'charControl': unreferenced local variable
+c:\users\joel\source\repos\laboration3\bibliotek\sourcecode.c(325): warning C4101: 'checkForAlphabetics': unreferenced local variable
+c:\users\joel\source\repos\laboration3\bibliotek\sourcecode.c(439): warning C4101: 'checkForAlphabetics': unreferenced local variable
+c:\users\joel\source\repos\laboration3\bibliotek\sourcecode.c(258): warning C4715: 'executeCommands': not all control paths return a value
+c:\users\joel\source\repos\laboration3\bibliotek\sourcecode.c(482): warning C4715: 'removeACat': not all control paths return a value
+c:\users\joel\source\repos\laboration3\bibliotek\sourcecode.c(817): warning C4715: 'validCatName': not all control paths return a value
+c:\users\joel\source\repos\laboration3\bibliotek\sourcecode.c(843): warning C4715: 'validCatGender': not all control paths return a value
+  Bibliotek.vcxproj -> C:\Users\Joel\source\repos\Laboration3\Debug\Bibliotek.lib
